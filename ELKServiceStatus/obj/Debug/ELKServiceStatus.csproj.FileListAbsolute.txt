@@ -1,0 +1,12 @@
+D:\Libraries\Projects\Visual-Studio\repos\ELKServiceStatus\ELKServiceStatus\bin\Debug\ELKServiceStatus.exe.config
+D:\Libraries\Projects\Visual-Studio\repos\ELKServiceStatus\ELKServiceStatus\bin\Debug\ELKServiceStatus.exe
+D:\Libraries\Projects\Visual-Studio\repos\ELKServiceStatus\ELKServiceStatus\bin\Debug\ELKServiceStatus.pdb
+D:\Libraries\Projects\Visual-Studio\repos\ELKServiceStatus\ELKServiceStatus\obj\Debug\ELKServiceStatus.csproj.AssemblyReference.cache
+D:\Libraries\Projects\Visual-Studio\repos\ELKServiceStatus\ELKServiceStatus\obj\Debug\ELKServiceStatus.configForm.resources
+D:\Libraries\Projects\Visual-Studio\repos\ELKServiceStatus\ELKServiceStatus\obj\Debug\ELKServiceStatus.ELKServiceMainForm.resources
+D:\Libraries\Projects\Visual-Studio\repos\ELKServiceStatus\ELKServiceStatus\obj\Debug\ELKServiceStatus.FormLog.resources
+D:\Libraries\Projects\Visual-Studio\repos\ELKServiceStatus\ELKServiceStatus\obj\Debug\ELKServiceStatus.Properties.Resources.resources
+D:\Libraries\Projects\Visual-Studio\repos\ELKServiceStatus\ELKServiceStatus\obj\Debug\ELKServiceStatus.csproj.GenerateResource.cache
+D:\Libraries\Projects\Visual-Studio\repos\ELKServiceStatus\ELKServiceStatus\obj\Debug\ELKServiceStatus.csproj.CoreCompileInputs.cache
+D:\Libraries\Projects\Visual-Studio\repos\ELKServiceStatus\ELKServiceStatus\obj\Debug\ELKServiceStatus.exe
+D:\Libraries\Projects\Visual-Studio\repos\ELKServiceStatus\ELKServiceStatus\obj\Debug\ELKServiceStatus.pdb

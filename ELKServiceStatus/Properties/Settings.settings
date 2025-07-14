@@ -1,0 +1,33 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="ELKServiceStatus.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="esServiceName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">elasticsearch-9.0.3</Value>
+    </Setting>
+    <Setting Name="kbServiceName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">kibana-9.0.3</Value>
+    </Setting>
+    <Setting Name="fsServiceName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Elastic Agent</Value>
+    </Setting>
+    <Setting Name="lsServiceName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">logstash-9.0.3</Value>
+    </Setting>
+    <Setting Name="esLog" Type="System.String" Scope="User">
+      <Value Profile="(Default)">D:\ELK\elk-log\elk-xyperia.log</Value>
+    </Setting>
+    <Setting Name="kbLog" Type="System.String" Scope="User">
+      <Value Profile="(Default)">D:\ELK\kibana-9.0.3\logs\kibana.log</Value>
+    </Setting>
+    <Setting Name="fsLog" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\Program Files\Elastic\Agent\data\elastic-agent-9.0.3-5f1479\logs\elastic-agent-20250708-6.ndjson</Value>
+    </Setting>
+    <Setting Name="lsLog" Type="System.String" Scope="User">
+      <Value Profile="(Default)">D:\ELK\logstash-9.0.3\logs\logstash.log</Value>
+    </Setting>
+    <Setting Name="logMaxLines" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">100</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
